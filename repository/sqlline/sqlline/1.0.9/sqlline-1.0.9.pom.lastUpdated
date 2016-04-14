@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Apr 01 05:04:24 EDT 2016
+http\://conjars.org/repo/.lastUpdated=1436942067083
+http\://openr66.free.fr/maven2/.lastUpdated=1459501463900
+https\://raw.github.com/forcedotcom/phoenix/maven-artifacts/releases/.lastUpdated=1459501463065
+http\://repo.maven.apache.org/maven2/.lastUpdated=1459501464082
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1436942067029
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1459501463588
+https\://raw.github.com/forcedotcom/phoenix/maven-artifacts/releases/.error=
+http\://repo.maven.apache.org/maven2/.error=
+file\://file\:/home/ubuntu/tejas/build/mini_framework/mini_framework//repo/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://openr66.free.fr/maven2/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact sqlline\:sqlline\:pom\:1.0.9 from/to codehaus (http\://repository.codehaus.org/)\: Failed to transfer file\: http\://repository.codehaus.org/sqlline/sqlline/1.0.9/sqlline-1.0.9.pom. Return code is\: 410, ReasonPhrase\:Gone.
+file\://file\:/home/ubuntu/tejas/build/mini_framework/mini_framework//repo/.lastUpdated=1459501461939
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
+default-http\://repository.codehaus.org/.lastUpdated=1436942066578

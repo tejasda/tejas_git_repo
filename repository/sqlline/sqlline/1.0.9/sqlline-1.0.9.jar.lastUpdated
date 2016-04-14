@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jul 15 02:36:13 EDT 2015
+http\://conjars.org/repo/.lastUpdated=1436942173443
+http\://openr66.free.fr/maven2/.lastUpdated=1436942117928
+https\://raw.github.com/forcedotcom/phoenix/maven-artifacts/releases/.lastUpdated=1436942108154
+http\://repo.maven.apache.org/maven2/.lastUpdated=1436942173032
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1436942173356
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1436942113514
+https\://raw.github.com/forcedotcom/phoenix/maven-artifacts/releases/.error=
+file\://file\:/home/ubuntu/tejas/build/mini_framework/mini_framework//repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://openr66.free.fr/maven2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact sqlline\:sqlline\:jar\:1.0.9 from/to Codehaus Snapshots (http\://repository.codehaus.org/)\: Failed to transfer file\: http\://repository.codehaus.org/sqlline/sqlline/1.0.9/sqlline-1.0.9.jar. Return code is\: 410, ReasonPhrase\:Gone.
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
+file\://file\:/home/ubuntu/tejas/build/mini_framework/mini_framework//repo/.lastUpdated=1436942105990
+default-http\://repository.codehaus.org/.lastUpdated=1436942173078
